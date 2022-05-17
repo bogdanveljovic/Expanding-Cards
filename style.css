@@ -13,7 +13,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    
+    border-radius: 20px;
 }
 .panel h3 {
     /* transition-duration: 0.5s; */
